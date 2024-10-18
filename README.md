@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prapti Mishra</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=animated%20images%20female%20coding&imgurl=https%3A%2F%2Fimages.playground.com%2F71ea0cdccf7d4d429660d27f1c7b9cfb.jpeg&imgrefurl=https%3A%2F%2Fplayground.com%2Fsearch%3Fq%3DA%2B3d%2Banimated%2Bpicture%2Bof%2Ba%2Bcool%2Bfemale%2Bsoftware%2Bdeveloper%2Bworking%2Bon%2Bcoding%2Bon%2Ba%2Bcomputer&docid=9Nzu1omKspsgGM&tbnid=iGhcGC94NErOQM&vet=12ahUKEwiMmMTpwJiJAxXqxzgGHe7xIvEQM3oECHMQAA..i&w=1024&h=1024&hcb=2&itg=1&ved=2ahUKEwiMmMTpwJiJAxXqxzgGHe7xIvEQM3oECHMQAA">
+<h3 align="center">A passionate developer from Odisha.India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praptimishra667&label=Profile%20views&color=0e75b6&style=flat" alt="praptimishra667" /> </p>
 
