@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hi, I’m Prapti Mishra — a final-year Chemical Engineering student at NIT Rourkela and an aspiring Data Scientist / Data Engineer, passionate about data-driven problem solving, building end-to-end analytics solutions, and exploring advanced fields like Deep Learning and Natural Language Processing (NLP).
 
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" alt="Girl Typing"/>
+
+---
+
 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Prapti Mishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praptimishra977@gmail.com) 
